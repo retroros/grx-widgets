@@ -45,8 +45,8 @@ Description: GRX Widgets library data
 Package: libgw-dev
 Architecture: any
 Section: libdevel
-Depends: ${misc:Depends}, libgw-0.5-0 (= ${binary:Version}),
-         gir1.2-gw-0.5 (= ${binary:Version}), libgrx-3.0-dev
+Depends: ${misc:Depends}, libgw-0.1-0 (= ${binary:Version}),
+         gir1.2-gw-0.1 (= ${binary:Version}), libgrx-3.0-dev
 Description: GRX Widgets library development files
  GRX Widgets is a GLib/GObject based library for building graphical interfaces
  on small displays.
