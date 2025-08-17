@@ -8,4 +8,4 @@ export DH_VERBOSE=1
 	dh $@ --with gir
 
 override_dh_install:
-	dh_install --list-missing
+	dh_missing --list-missing
