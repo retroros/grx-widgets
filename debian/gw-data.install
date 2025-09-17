@@ -1,1 +1,3 @@
-usr/share/gw
+# TODO: No idea if we want this or if it should be removed? compare to master?
+#usr/share/gw
+usr/lib/*/girepository-1.0/
