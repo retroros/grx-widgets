@@ -1,4 +1,4 @@
 # TODO: No idea if we want this or if it should be removed? compare to master?
 #usr/share/gw
-usr/lib/*/girepository-1.0
+#usr/lib/*/girepository-1.0
 usr/share/grx-widgets
